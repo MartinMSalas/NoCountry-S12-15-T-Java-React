@@ -133,6 +133,7 @@ A continuación, se detallan las variables de entorno utilizadas en el proyecto.
       - Mago de la optimización. Asegura que cada línea de código cuente, proporcionando un backend eficiente y de alto rendimiento.
     - **Martín Miguel Salas**
       - GitHub: [MartinMSalas](https://github.com/MartinMSalas)
+      - LinkedIn: https://www.linkedin.com/in/mart%C3%ADnsalas/
       - Constructor versátil de soluciones backend. Su enfoque creativo y pragmático resuelve problemas con elegancia y eficacia.
     - **Luca Terzariol**
       - GitHub: [Teradriel](https://github.com/Teradriel)
